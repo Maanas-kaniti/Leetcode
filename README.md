@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DemonicEmperor/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/DemonicEmperor/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
