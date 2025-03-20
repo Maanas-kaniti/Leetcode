@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DemonicEmperor/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/DemonicEmperor/Leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/DemonicEmperor/Leetcode/tree/master/0027-remove-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DemonicEmperor/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DemonicEmperor/Leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/DemonicEmperor/Leetcode/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
