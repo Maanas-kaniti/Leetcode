@@ -70,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DemonicEmperor/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/DemonicEmperor/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/DemonicEmperor/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/DemonicEmperor/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Graph
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/DemonicEmperor/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
