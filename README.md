@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DemonicEmperor/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DemonicEmperor/Leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/DemonicEmperor/Leetcode/tree/master/0050-powx-n) |
 ## Counting
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DemonicEmperor/Leetcode/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/DemonicEmperor/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
