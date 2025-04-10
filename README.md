@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DemonicEmperor/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/DemonicEmperor/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/DemonicEmperor/Leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/DemonicEmperor/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/DemonicEmperor/Leetcode/tree/master/0283-move-zeroes) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DemonicEmperor/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DemonicEmperor/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/DemonicEmperor/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DemonicEmperor/Leetcode/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/DemonicEmperor/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
