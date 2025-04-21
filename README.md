@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/DemonicEmperor/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1182-game-play-analysis-iv](https://github.com/DemonicEmperor/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/DemonicEmperor/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1670-patients-with-a-condition](https://github.com/DemonicEmperor/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1877-find-followers-count](https://github.com/DemonicEmperor/Leetcode/tree/master/1877-find-followers-count) |
 ## Two Pointers
 |  |
