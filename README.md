@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/DemonicEmperor/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1670-patients-with-a-condition](https://github.com/DemonicEmperor/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1877-find-followers-count](https://github.com/DemonicEmperor/Leetcode/tree/master/1877-find-followers-count) |
+| [1942-primary-department-for-each-employee](https://github.com/DemonicEmperor/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 ## Two Pointers
 |  |
 | ------- |
