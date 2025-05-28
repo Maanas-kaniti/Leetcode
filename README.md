@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/DemonicEmperor/Leetcode/tree/master/0175-combine-two-tables) |
 | [0596-classes-more-than-5-students](https://github.com/DemonicEmperor/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1182-game-play-analysis-iv](https://github.com/DemonicEmperor/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/DemonicEmperor/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
