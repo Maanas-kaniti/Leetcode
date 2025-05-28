@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DemonicEmperor/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DemonicEmperor/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DemonicEmperor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/DemonicEmperor/Leetcode/tree/master/0326-power-of-three) |
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DemonicEmperor/Leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/DemonicEmperor/Leetcode/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
 | ------- |
