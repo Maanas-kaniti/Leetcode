@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DemonicEmperor/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DemonicEmperor/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/DemonicEmperor/Leetcode/tree/master/0242-valid-anagram) |
+| [3396-valid-word](https://github.com/DemonicEmperor/Leetcode/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
