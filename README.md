@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/DemonicEmperor/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/DemonicEmperor/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
@@ -205,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/DemonicEmperor/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/DemonicEmperor/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
