@@ -12,7 +12,6 @@ class Solution:
                 i+=1
             m = max(m,j-i+1)
             j+=1
-            print(d , m)
         return m
 
 
