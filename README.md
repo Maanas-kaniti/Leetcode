@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DemonicEmperor/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
 | ------- |
