@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/DemonicEmperor/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DemonicEmperor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DemonicEmperor/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/DemonicEmperor/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DemonicEmperor/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/DemonicEmperor/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DemonicEmperor/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/0229-majority-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/DemonicEmperor/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/DemonicEmperor/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DemonicEmperor/Leetcode/tree/master/0242-valid-anagram) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/DemonicEmperor/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Trie
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DemonicEmperor/Leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/DemonicEmperor/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/DemonicEmperor/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DemonicEmperor/Leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
