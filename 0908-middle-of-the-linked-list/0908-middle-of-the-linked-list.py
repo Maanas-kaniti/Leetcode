@@ -17,8 +17,6 @@ class Solution:
         while curr:
             m +=1
             if m==(c//2)+1:
-                head = curr
-                break
+                return curr
             curr = curr.next
-        return head
-            
+        
