@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DemonicEmperor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/DemonicEmperor/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DemonicEmperor/Leetcode/tree/master/0342-power-of-four) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DemonicEmperor/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
 ## Counting
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0835-linked-list-components](https://github.com/DemonicEmperor/Leetcode/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DemonicEmperor/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
