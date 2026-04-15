@@ -3,8 +3,6 @@ class Solution {
     public String frequencySort(String s) {
         StringBuilder str = new StringBuilder();
         HashMap<Character,Integer> map = new HashMap<>();
-        char maxkey = ' ';
-        int maxf = 0;
         for(char c : s.toCharArray()){
             map.put(c,map.getOrDefault(c,0)+1);
         }
