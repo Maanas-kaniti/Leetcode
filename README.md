@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DemonicEmperor/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DemonicEmperor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DemonicEmperor/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2793-count-the-number-of-complete-components](https://github.com/DemonicEmperor/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -325,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DemonicEmperor/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
