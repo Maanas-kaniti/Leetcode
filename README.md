@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DemonicEmperor/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DemonicEmperor/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2784-check-if-array-is-good](https://github.com/DemonicEmperor/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/DemonicEmperor/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/DemonicEmperor/Leetcode/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/DemonicEmperor/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [2784-check-if-array-is-good](https://github.com/DemonicEmperor/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/DemonicEmperor/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DemonicEmperor/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DemonicEmperor/Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DemonicEmperor/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2784-check-if-array-is-good](https://github.com/DemonicEmperor/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DemonicEmperor/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Recursion
