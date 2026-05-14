@@ -8,7 +8,6 @@ class Solution {
         if(nums.length!=max+1){
             return false;
         }
-        Arrays.sort(nums);
         LinkedHashMap<Integer,Integer> map = new LinkedHashMap<>();
         for(int n : nums){
             map.put(n,map.getOrDefault(n,0)+1);
