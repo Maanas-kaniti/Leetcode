@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DemonicEmperor/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/DemonicEmperor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DemonicEmperor/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DemonicEmperor/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DemonicEmperor/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DemonicEmperor/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DemonicEmperor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DemonicEmperor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DemonicEmperor/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DemonicEmperor/Leetcode/tree/master/0231-power-of-two) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DemonicEmperor/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
