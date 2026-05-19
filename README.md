@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DemonicEmperor/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DemonicEmperor/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2784-check-if-array-is-good](https://github.com/DemonicEmperor/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/DemonicEmperor/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DemonicEmperor/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DemonicEmperor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/DemonicEmperor/Leetcode/tree/master/0792-binary-search) |
+| [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DemonicEmperor/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/DemonicEmperor/Leetcode/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/DemonicEmperor/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/DemonicEmperor/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/DemonicEmperor/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DemonicEmperor/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
