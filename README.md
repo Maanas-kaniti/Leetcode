@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DemonicEmperor/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DemonicEmperor/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DemonicEmperor/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/DemonicEmperor/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/DemonicEmperor/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DemonicEmperor/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DemonicEmperor/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/DemonicEmperor/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DemonicEmperor/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DemonicEmperor/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DemonicEmperor/Leetcode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DemonicEmperor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DemonicEmperor/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Sorting
 |  |
