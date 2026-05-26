@@ -1,21 +1,19 @@
 import java.util.*;
 class Solution {
     public int numberOfSpecialChars(String word) {
-        HashMap<Character,Set<Character>> map = new HashMap<>();
-        for(char n : word.toCharArray()){
-
-        char lower = Character.toLowerCase(n);
-
-         map.putIfAbsent(lower, new HashSet<>());
-
-        map.get(lower).add(n);
+       boolean[] lower = new boolean[26];
+       boolean[] upper = new boolean[26];
+       System.out.println(Arrays.toString(lower));
+       for(char ch : word.toCharArray()){
+        if(Character.isLowerCase(ch)){
+            lower[ch-'a'] = true;
         }
-        System.out.println(map.toString());
-        int c = 0;
-        for(Map.Entry<Character,Set<Character>> entry : map.entrySet()){
-            int value = entry.getValue().size();
-            if(value>1) c++;
-        }
-        return c;
+        else upper[ch-'A'] = true;
+       }
+       int c = 0;
+       for(int i = 0;i<lower.length;i++){
+        if(lower[i] && upper[i]) c++;
+       }
+       return c;
     }
 }
