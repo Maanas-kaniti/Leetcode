@@ -15,7 +15,7 @@ class Solution {
         int h2 = arr.length - 1;
         while (l2 <= h2) {
             int mid = l2 + (h2 - l2) / 2;
-            System.out.println(l2 + " "+ mid+" "+h2);
+            // System.out.println(l2 + " "+ mid+" "+h2);
             if (arr[mid] <= target) {
                 if (arr[mid] == target) {
                     res[1] = mid;
