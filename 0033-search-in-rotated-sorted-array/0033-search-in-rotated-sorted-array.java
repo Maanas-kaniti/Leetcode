@@ -1,70 +1,25 @@
 class Solution {
-    public int search(int[] arr, int target) {
-             int left = 0;
-        int right = arr.length-1;
-        if(left>right) return -1;
-        while(left<=right){
-            int mid = left+(right-left)/2;
-            if(arr[mid]==target){
+    public int search(int[] nums, int target) {
+        int l = 0;
+        int r = nums.length-1;
+        int ans = -1;
+        while(l<=r){
+            int mid = l+(r-l)/2;
+            System.out.println(l+" "+mid+" "+r);
+            if(nums[mid]==target){
                 return mid;
             }
-             if (arr[left] <= arr[mid]) {
-
-                if (target >= arr[left] && target < arr[mid]) {
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
+            else if(nums[l]<=nums[mid]){
+                if(target<nums[mid] && target>=nums[l]) r = mid-1;
+                else l = mid+1;
             }
-            else {
-
-                if (target > arr[mid] && target <= arr[right]) {
-                    left = mid + 1;
-                } else {
-                    right = mid - 1;
+            else{
+                if(target>nums[mid] && target<=nums[r]){
+                    l = mid+1;
                 }
+                else r = mid-1;
             }
-        }        
+        }
         return -1;
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        // int s = 0;
-        // int e = nums.length-1;
-        // int res = bs(nums,target,s,e);
-        // return res;
     }
-    // static int bs(int [] arr , int t , int s , int e){
-    //     if(s>e){
-    //         return -1;
-    //     }
-    //     int m = (s+e)/2;
-    //     if(arr[m]==t){
-    //         return m;
-    //     }
-    //     if(arr[s]<= arr[m]){
-    //         if(t>=arr[s] && t<arr[m]){
-    //             return bs(arr,t,s,m-1);
-    //         }
-    //         else return bs(arr,t,m+1,e);
-    //     }
-    //     if(t>arr[m] && t<=arr[e]){
-    //         return bs(arr,t,m+1,e);
-    //     }
-    //     else return bs(arr,t,s,m-1);
-    // }
 }
