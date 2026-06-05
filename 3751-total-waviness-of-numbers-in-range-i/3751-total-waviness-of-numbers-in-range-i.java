@@ -1,7 +1,7 @@
 class Solution {
     static int waves(int n){
         int count = 0;
-        if(n<101) return count;
+        
         String s = String.valueOf(n);
         for(int i = 0;i<s.length()-1;i++){
             if(i!=0 && i!=s.length()-1){
@@ -19,6 +19,7 @@ class Solution {
     public int totalWaviness(int num1, int num2) {
         int waviness = 0;
         for(int i = num1;i<num2+1;i++){
+            if(i<100) continue;
             int wave = waves(i);
             waviness+=wave;
         }
