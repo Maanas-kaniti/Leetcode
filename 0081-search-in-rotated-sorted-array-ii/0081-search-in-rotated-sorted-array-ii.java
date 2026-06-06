@@ -1,17 +1,30 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        boolean res = bs(nums,target,0,nums.length-1);
-        return res;
-    }
-    static boolean bs(int[] arr,int t,int s, int e){
-        if(s>e) return false;
-        int m = (s+e)/2;
-        if(arr[m]==t) return true;
-        if(arr[s]<=arr[m]){
-            if(t>=arr[s] && t < arr[m]) return bs(arr,t,s,m-1);
-            else return bs(arr,t,m+1,e);
+        int l = 0;
+        int r = nums.length-1;
+        while(l<=r){
+            int mid = l+(r-l)/2;
+            System.out.println(l+" "+mid+" "+r);
+            if(nums[mid]==target){
+                return true;
+            }
+            if(nums[l]==nums[r]){
+                l+=1;
+            }
+            else if(nums[mid]>= nums[l]){
+                if(target<nums[mid] && target>=nums[l]){
+                    r = mid -1;
+                }
+                else{
+                    l = mid+1;
+                }
+            }else{
+                if(target>nums[mid] && target<=nums[r]){
+                    l = mid+1;
+                }
+                else r = mid-1;
+            }
         }
-        if(t>arr[m] && t<=arr[e]) return bs(arr,t,m+1,e);
-        else return bs(arr,t,s,m-1);
+        return false;
     }
 }
