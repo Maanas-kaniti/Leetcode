@@ -2,7 +2,6 @@ class Solution {
     public int singleNonDuplicate(int[] nums) {
         int l = 0;
         int r = nums.length-1;
-        int ans = 0;
         while(l<=r){
             int mid = l+(r-l)/2;
             // System.out.println(l + " "+ mid + " "+ r);
