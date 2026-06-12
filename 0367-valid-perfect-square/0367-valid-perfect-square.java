@@ -12,7 +12,7 @@ class Solution {
             }
             else r = mid-1;
         }
-        System.out.println(r);
+        
         return false;
     }
 }
