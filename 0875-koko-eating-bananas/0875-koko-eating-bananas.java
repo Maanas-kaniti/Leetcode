@@ -13,7 +13,7 @@ class Solution {
             for(int n : piles){
                  k+=(n+mid-1)/mid;
             }
-            System.out.println(l + " "+mid+ " "+ r+ " "+ k);
+            // System.out.println(l + " "+mid+ " "+ r+ " "+ k);
             if(k<=h){
                 ans = mid;
                 r = mid -1;
