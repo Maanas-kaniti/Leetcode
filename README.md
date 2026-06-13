@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/DemonicEmperor/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/DemonicEmperor/Leetcode/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/DemonicEmperor/Leetcode/tree/master/0835-linked-list-components) |
+| [0875-koko-eating-bananas](https://github.com/DemonicEmperor/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/DemonicEmperor/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/DemonicEmperor/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DemonicEmperor/Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/DemonicEmperor/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
