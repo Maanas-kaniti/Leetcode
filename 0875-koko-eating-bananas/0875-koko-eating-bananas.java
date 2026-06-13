@@ -8,10 +8,10 @@ class Solution {
         int r = max;
         int ans = 0;
         while(l<=r){
-            int k = 0;
+            long k = 0;
             int mid = l+(r-l)/2;
             for(int n : piles){
-                 k+=Math.ceil((double)n/mid);
+                 k+=(n+mid-1)/mid;
             }
             System.out.println(l + " "+mid+ " "+ r+ " "+ k);
             if(k<=h){
