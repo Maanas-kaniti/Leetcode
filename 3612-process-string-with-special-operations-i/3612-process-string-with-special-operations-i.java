@@ -8,7 +8,6 @@ class Solution {
     }
     public String processStr(String s) {
         StringBuilder res = new StringBuilder();
-        int c = 0;
         for(char ch : s.toCharArray()){
             if(ch == '#'){
                 res.append(res);
