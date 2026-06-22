@@ -5,7 +5,7 @@ class Solution {
         for(char c : text.toCharArray()){
             freq[c-'a']++;
         }
-        System.out.println(Arrays.toString(freq));
+        // System.out.println(Arrays.toString(freq));
         int min = freq[0];
         min = Math.min(freq[1],min);
         min = Math.min(freq[11]/2,min);
