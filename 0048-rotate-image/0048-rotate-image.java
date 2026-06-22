@@ -10,7 +10,6 @@ class Solution {
                 }
             }
         }
-        System.out.println(Arrays.deepToString(matrix));
         int n = matrix[0].length;
         for(int i = 0;i<matrix.length;i++){
             int l = 0;
