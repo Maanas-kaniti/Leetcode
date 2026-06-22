@@ -4,9 +4,10 @@ class Solution {
         for(int i = 0;i<matrix.length;i++){
             for(int j = i+1;j<matrix[i].length;j++){
                 if(i!=j){
-                    int temp = matrix[i][j];
-                    matrix[i][j] = matrix[j][i];
-                    matrix[j][i] = temp;
+                   
+                    matrix[i][j] = matrix[i][j]+matrix[j][i];
+                    matrix[j][i] = matrix[i][j]-matrix[j][i];
+                    matrix[i][j] = matrix[i][j] - matrix[j][i];
                 }
             }
         }
@@ -15,9 +16,10 @@ class Solution {
             int l = 0;
             int r = n-1;
             while(l<r){
-                int temp = matrix[i][l];
-                matrix[i][l] = matrix[i][r];
-                matrix[i][r] = temp;
+                
+                matrix[i][l] = matrix[i][l] + matrix[i][r];
+                matrix[i][r] = matrix[i][l] - matrix[i][r];
+                matrix[i][l] = matrix[i][l] - matrix[i][r];
                 l++;
                 r--;
             }
