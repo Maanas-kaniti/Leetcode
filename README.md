@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/DemonicEmperor/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DemonicEmperor/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/DemonicEmperor/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/DemonicEmperor/Leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/DemonicEmperor/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DemonicEmperor/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
