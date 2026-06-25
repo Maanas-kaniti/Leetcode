@@ -9,12 +9,12 @@ class Solution {
         while(l<=r){
             long sum = 0;
             int mid = l+(r-l)/2;
-            System.out.println(l + " "+ mid + " " + r );
+            // System.out.println(l + " "+ mid + " " + r );
             for(int n : nums){
                 sum+=(n+mid-1)/mid;
                 
             }
-            System.out.println(sum);
+            // System.out.println(sum);
             if(sum<=threshold){
                 ans = mid;
                 r = mid-1;
