@@ -14,7 +14,7 @@ class Solution {
             int mid = l+(r-l)/2;
             int count = k;
             int made = 0;
-            System.out.println(l+" "+mid+" "+r);
+            
             for(int n : bloomDay){
                 if(n<=mid) count--;
                 else count=k; 
