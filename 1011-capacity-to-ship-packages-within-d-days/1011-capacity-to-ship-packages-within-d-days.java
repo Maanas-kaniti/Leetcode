@@ -6,6 +6,7 @@ class Solution {
             sum += n;
             l = Math.max(l, n);
         }
+        l = Math.max(l,sum/days);
         int r = sum;
         int ans = 0;
         while (l <= r) {
