@@ -11,7 +11,7 @@ class Solution {
                 rank++;
             }
         }
-        System.out.println(map.toString());
+        // System.out.println(map.toString());
         for(int i = 0;i<arr.length; i++){
             copy[i] = map.get(arr[i]);
         }
