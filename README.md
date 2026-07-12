@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DemonicEmperor/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/DemonicEmperor/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DemonicEmperor/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1603-running-sum-of-1d-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/DemonicEmperor/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/DemonicEmperor/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DemonicEmperor/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DemonicEmperor/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DemonicEmperor/Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/DemonicEmperor/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/DemonicEmperor/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/DemonicEmperor/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DemonicEmperor/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
