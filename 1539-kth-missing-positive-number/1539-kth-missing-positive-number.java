@@ -8,7 +8,7 @@ class Solution {
        while(l<=r){
         int mid = l+(r-l)/2;
         count = arr[mid]-(mid+1);
-        System.out.println(l+" "+mid + " "+ r);
+        
         if(count<k){
             ans = mid;
             l = mid+1;
@@ -18,8 +18,7 @@ class Solution {
             r = mid-1;
         }
        }
-       System.out.println(ans + " " + ans1);
-       System.out.println(l);
+       
        
        return l+k;
     }
