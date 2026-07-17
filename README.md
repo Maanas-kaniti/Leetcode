@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DemonicEmperor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/DemonicEmperor/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/DemonicEmperor/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/DemonicEmperor/Leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/DemonicEmperor/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DemonicEmperor/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DemonicEmperor/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DemonicEmperor/Leetcode/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/DemonicEmperor/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DemonicEmperor/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DemonicEmperor/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DemonicEmperor/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/DemonicEmperor/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DemonicEmperor/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DemonicEmperor/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DemonicEmperor/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
