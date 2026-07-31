@@ -1,51 +1,46 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int len = nums1.length+nums2.length;
-        System.out.println(len);
-        int median = 0;
-        int median1 = -1;
-        if(len %2==1) median = len/2 +1 ;
-        else{
-            median = len/2;
-            median1 = len/2+1;
+        if(nums1.length>nums2.length){
+            return findMedianSortedArrays(nums2,nums1);
         }
-        int count = 0;
-        int i = 0;
-        int j= 0;
-        double ans = 0;
-        System.out.println(median + " "+median1);
-        while(i<nums1.length || j<nums2.length){
-            if(i<nums1.length && j<nums2.length){
-                if(nums1[i]<=nums2[j]){
-                    count++;
-                    if(count==median) ans+=nums1[i];
-                    if(median1!=-1 && count==median1) ans+=nums1[i];
-                    i++;
-                }
-                else if(nums1[i]>=nums2[j]){
-                    count++;
-                    if(count==median) ans+=nums2[j];
-                    if(median1!=-1 && count == median1) ans+=nums2[j];
-                    j++;
-                }
+        int merged = nums1.length+nums2.length;
+        int k = 0;
+        if(merged%2==0){
+            k=(nums1.length+nums2.length)/2 ;
+        }
+        else{
+            k = (nums1.length+nums2.length)/2 + 1;
+        }
+        System.out.println(k);
+        int l = Math.max(0,k-nums2.length);
+        int r = Math.min(k,nums1.length);
+        int ans = 0;
+        while(l<=r){
+            int mid = l+(r-l)/2;
+            int part = k-mid;
+            int lefta = (mid==0) ? Integer.MIN_VALUE : nums1[mid-1];
+            int righta = (mid==nums1.length) ? Integer.MAX_VALUE : nums1[mid];
+            int leftb = (part==0) ? Integer.MIN_VALUE : nums2[part-1];
+            int rightb = (part==nums2.length) ? Integer.MAX_VALUE : nums2[part];
+            if(leftb>righta){
+                l = mid+1;
             }
-            else if(i<nums1.length){
-                count++;
-                if(count==median) ans+=nums1[i];
-                if(median1!=-1 && count == median1) ans+=nums1[i];
-                i++;
+            else if(lefta>rightb){
+                r = mid-1;
             }
             else{
-                count++;
-                if(count==median) ans+=nums2[j];
-                if(median1!=-1 && count == median1) ans+=nums2[j];
-                j++;
+                if(merged%2==1){
+                    return Math.max(lefta,leftb);
+                }
+                else{
+                    ans +=Math.max(lefta,leftb);
+                    ans+=Math.min(righta,rightb);
+                    System.out.println(ans);
+                    return (double)ans/2;
+                }
             }
+            
         }
-        System.out.println(ans);
-        if(len%2==0){
-            return ans/2;
-        }
-        return ans;
+        return -1;
     }
 }
