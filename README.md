@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DemonicEmperor/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/DemonicEmperor/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DemonicEmperor/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3838-weighted-word-mapping](https://github.com/DemonicEmperor/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/DemonicEmperor/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DemonicEmperor/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/DemonicEmperor/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/DemonicEmperor/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/DemonicEmperor/Leetcode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DemonicEmperor/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Recursion
 |  |
