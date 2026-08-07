@@ -9,20 +9,18 @@ class Solution {
         for(int i = 0;i<s.length();i++){
             char c = s.charAt(i);
             if(c=='('){
-                open++;
-                sb.append(c);
+                if(count!=0) sb.append(c);
+                count++;
+                
             }
             else{
-                close++;
-                sb.append(c);
+                count--;
+                if(count!=0) sb.append(c);
+                
             }
             // System.out.println(sb .toString());
             // System.out.println(open + " "+ close);
-            if(open==close){
-                sb.deleteCharAt(sb.length()-1);
-                sb.deleteCharAt(count);
-                count = sb.length();
-            }
+            
         }
         return sb.toString();
     }
