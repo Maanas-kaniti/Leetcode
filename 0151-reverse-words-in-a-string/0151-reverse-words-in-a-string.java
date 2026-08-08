@@ -1,8 +1,9 @@
+import java.util.*;
 class Solution {
     public String reverseWords(String s) {
-        String res = "";
+        StringBuilder res = new StringBuilder();
         int word = 0;
-        String w = "";
+        StringBuilder w = new StringBuilder();
         int i = s.length()-1;
         int j = 0;
         for(char c : s.toCharArray()){
@@ -11,15 +12,20 @@ class Solution {
         System.out.println(word);
         while(i>=0){
             if(s.charAt(i)!=' '){
-                w = s.charAt(i)+w;
+                w.insert(0,s.charAt(i));
                 word--;
             }
             else if(s.charAt(i)==' '){
-                if(w.length()>0) res = res +w+(word != 0 ? " " : "") ;
-                w = "";
+                if(w.length()>0){
+                    res.append(w);
+                    if(word>0){
+                        res.append(' ');
+                    }
+                }
+                w.setLength(0);
             }
             i--;
         }
-        return res+w;
+        return res.append(w).toString();
     }
 }
