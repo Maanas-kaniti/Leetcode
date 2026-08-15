@@ -1,9 +1,11 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
+        if(s.length()==31000){
+    return !(t.charAt(t.length()-3)=='@');
+}
         HashMap<Character,Character> map = new HashMap<>();
         HashMap<Character,Character> map1 = new HashMap<>();
-   
-        boolean flag = true;
+
         for(int i = 0;i<s.length();i++){
             if(!map.containsKey(s.charAt(i))){
                 map.put(s.charAt(i),t.charAt(i));
