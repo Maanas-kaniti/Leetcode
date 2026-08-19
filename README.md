@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DemonicEmperor/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/DemonicEmperor/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/DemonicEmperor/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DemonicEmperor/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/DemonicEmperor/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DemonicEmperor/Leetcode/tree/master/0455-assign-cookies) |
+| [1386-cinema-seat-allocation](https://github.com/DemonicEmperor/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/DemonicEmperor/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/DemonicEmperor/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/DemonicEmperor/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/DemonicEmperor/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/DemonicEmperor/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2540-minimum-common-value](https://github.com/DemonicEmperor/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DemonicEmperor/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DemonicEmperor/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/DemonicEmperor/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DemonicEmperor/Leetcode/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/DemonicEmperor/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DemonicEmperor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DemonicEmperor/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
