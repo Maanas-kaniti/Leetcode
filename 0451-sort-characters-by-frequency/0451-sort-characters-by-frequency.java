@@ -2,7 +2,7 @@ import java.util.*;
 class Solution {
     public String frequencySort(String s){
        HashMap<Character,Integer> map = new HashMap<>();
-       int max = 0;
+       
        for(char c : s.toCharArray()){
             map.put(c,map.getOrDefault(c,0)+1);
             
