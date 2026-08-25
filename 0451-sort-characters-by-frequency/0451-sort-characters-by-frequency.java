@@ -1,23 +1,30 @@
 import java.util.*;
 class Solution {
-    public String frequencySort(String s) {
-        StringBuilder str = new StringBuilder();
-        HashMap<Character,Integer> map = new HashMap<>();
-        for(char c : s.toCharArray()){
+    public String frequencySort(String s){
+       HashMap<Character,Integer> map = new HashMap<>();
+       int max = 0;
+       for(char c : s.toCharArray()){
             map.put(c,map.getOrDefault(c,0)+1);
-        }
-         PriorityQueue<Map.Entry<Character, Integer>> pq =
-            new PriorityQueue<>((a, b) -> b.getValue() - a.getValue());
-            pq.addAll(map.entrySet());
-        while(!pq.isEmpty()){
-            Map.Entry<Character,Integer> top = pq.poll();
-            char key = top.getKey();
-            int value = top.getValue();
-            for(int i = 0;i<value;i++){
-                str.append(key);
-            }
             
+       }
+       List<Character>[] bucket = new ArrayList[s.length()+1];
+       for(char n : map.keySet()){
+        int freq = map.get(n);
+        if(bucket[freq]==null) bucket[freq] = new ArrayList<>();
+        bucket[freq].add(n);
+       }
+       System.out.println(Arrays.toString(bucket));
+       StringBuilder sb = new StringBuilder();
+       for(int i = bucket.length-1;i>=0;i--){
+        if(bucket[i]!=null){
+            for(char n : bucket[i]){
+                for(int j = 0;j<i;j++){
+                    sb.append(n);
+                }
+            }
         }
-        return str.toString();
+       }
+       return sb.toString();
     }
+
 }
