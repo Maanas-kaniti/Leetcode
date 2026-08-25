@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DemonicEmperor/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DemonicEmperor/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DemonicEmperor/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DemonicEmperor/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/DemonicEmperor/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DemonicEmperor/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DemonicEmperor/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/DemonicEmperor/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
