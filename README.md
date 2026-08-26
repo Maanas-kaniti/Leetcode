@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/DemonicEmperor/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/DemonicEmperor/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DemonicEmperor/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DemonicEmperor/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/DemonicEmperor/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DemonicEmperor/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/DemonicEmperor/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/DemonicEmperor/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DemonicEmperor/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DemonicEmperor/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
@@ -537,4 +539,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/DemonicEmperor/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DemonicEmperor/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
