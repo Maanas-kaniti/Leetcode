@@ -6,12 +6,12 @@ class Solution {
         int count  = 0;
         for(char c : s.toCharArray()){
             if(c=='('){
-                stack.add(c);
+                count++;
             }
             else if(c==')'){
-                stack.pop();
+                count--;
             }
-            max = Math.max(stack.size(),max);
+            max = Math.max(count,max);
         }
         return max;
     }
