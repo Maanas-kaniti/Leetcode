@@ -3,20 +3,6 @@ class Solution {
         int num = 0;
         long n = 0;
         boolean negative = false;
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            if (Character.isDigit(ch) || ch == ' ' || ch == '+' || ch == '-' || ch == '.') {
-                if (Character.isDigit(ch)) {
-                    sb.append(ch);
-                } else if (ch == '-' || ch == '.' || ch == '+') {
-                    sb.append(ch);
-                } else if (ch == ' ')
-                    sb.append(ch);
-
-            } else
-                sb.append('?');
-        }
         int count = 0;
         int sign = 0;
         int spaces = 0;
@@ -57,7 +43,6 @@ class Solution {
                 break;
 
         }
-        System.out.println(Integer.MAX_VALUE);
         num = (int)n;
         if (negative)
             return num * -1;
