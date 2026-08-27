@@ -20,8 +20,8 @@ class Solution {
         int count = 0;
         int sign = 0;
         int spaces = 0;
-        for (int i = 0; i < sb.length(); i++) {
-            char ch = sb.charAt(i);
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
             if (Character.isDigit(ch)) {
                 if (n*10 +(ch-'0') <= Integer.MAX_VALUE) {
                     n*= 10;
@@ -53,7 +53,7 @@ class Solution {
                 }
                 else break;
             }
-            else if (ch == '?')
+            else
                 break;
 
         }
