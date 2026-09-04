@@ -14,8 +14,7 @@ class Solution {
             if(nums[i]<min) min = nums[i];
             mins[i] = min;
         }
-        System.out.println(Arrays.toString(maxs));
-        System.out.println(Arrays.toString(mins));
+       
         int index = -1;
         for(int i = 0;i<nums.length;i++){
             if(maxs[i]-mins[i]<=k){
