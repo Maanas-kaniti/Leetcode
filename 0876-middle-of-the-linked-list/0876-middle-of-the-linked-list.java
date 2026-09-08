@@ -10,20 +10,17 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        int len = 0;
+        if(head == null || head.next==null) return head;
+        ListNode cur = head;
         ListNode curr = head;
-        while(curr!=null){
-            curr = curr.next;
-            len++;
+        
+        while(curr!=null && curr.next!=null){
+            System.out.println(cur.val + " "+curr.val);
+            cur = cur.next;
+            curr = curr.next.next;
+
         }
-        ListNode curr1 = head;
-        int c = 0;
-        int res = (len%2==0)? len/2+1 : len/2;
-        while( curr1.next!=null){
-            if(c==len/2) break;
-            c++;
-            curr1 = curr1.next;
-        }
-        return curr1;
+        System.out.println(cur.val);
+        return cur;
     }
 }
