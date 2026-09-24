@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DemonicEmperor/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DemonicEmperor/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DemonicEmperor/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DemonicEmperor/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DemonicEmperor/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DemonicEmperor/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
