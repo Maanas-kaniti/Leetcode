@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DemonicEmperor/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/DemonicEmperor/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DemonicEmperor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/DemonicEmperor/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/DemonicEmperor/Leetcode/tree/master/0118-pascals-triangle) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DemonicEmperor/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/DemonicEmperor/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DemonicEmperor/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/DemonicEmperor/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DemonicEmperor/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DemonicEmperor/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DemonicEmperor/Leetcode/tree/master/0070-climbing-stairs) |
@@ -596,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/DemonicEmperor/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DemonicEmperor/Leetcode/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DemonicEmperor/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
