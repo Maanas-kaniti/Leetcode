@@ -1,15 +1,13 @@
 class Solution {
+    static int recurse(int[] arr , int i,int min){
+        if(i==arr.length) return 0;
+        min = Math.min(min,arr[i]);
+        int profit = arr[i]-min;
+        return Math.max(profit,recurse(arr,i+1,min));
+    }
     public int maxProfit(int[] prices) {
-        int min = Integer.MAX_VALUE;
-        int profit = 0;
-        for(int i = 0;i<prices.length;i++){
-            if(prices[i]<min){
-                min = prices[i];
-            }
-            else{
-                profit = Math.max(profit,prices[i]-min);
-            }
-        }
-        return profit;
+        int[] dp = new int[prices.length];
+        Arrays.fill(dp,Integer.MIN_VALUE);
+        return recurse(prices,0,prices[0]);
     }
 }
