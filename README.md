@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DemonicEmperor/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DemonicEmperor/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DemonicEmperor/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DemonicEmperor/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/DemonicEmperor/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/DemonicEmperor/Leetcode/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/DemonicEmperor/Leetcode/tree/master/0835-linked-list-components) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DemonicEmperor/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DemonicEmperor/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/DemonicEmperor/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DemonicEmperor/Leetcode/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DemonicEmperor/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DemonicEmperor/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/DemonicEmperor/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/DemonicEmperor/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
