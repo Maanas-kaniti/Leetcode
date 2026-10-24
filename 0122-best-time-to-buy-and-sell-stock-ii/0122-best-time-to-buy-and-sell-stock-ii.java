@@ -8,7 +8,7 @@ class Solution {
             memo[i][hold] = Math.max(sell,notsell);
             return memo[i][hold];
         }
-        int pick = -prices[i]+recurse(prices,i+1,1,memo);
+        int pick = recurse(prices,i+1,1,memo)-prices[i];
         int notpick = recurse(prices,i+1,0,memo); 
         memo[i][hold] = Math.max(pick,notpick);
         return memo[i][hold];
