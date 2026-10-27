@@ -13,7 +13,7 @@ class Solution {
             sum+=i;
         }
         if(sum%2==1) return false;
-        Boolean memo[][] = new Boolean[nums.length][sum+1];
+        Boolean memo[][] = new Boolean[nums.length][sum];
         for(Boolean[] row : memo){
             Arrays.fill(row,null);
         }
