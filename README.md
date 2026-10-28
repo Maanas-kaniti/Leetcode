@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DemonicEmperor/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/DemonicEmperor/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DemonicEmperor/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/DemonicEmperor/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/DemonicEmperor/Leetcode/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/DemonicEmperor/Leetcode/tree/master/0835-linked-list-components) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DemonicEmperor/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/DemonicEmperor/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/DemonicEmperor/Leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/DemonicEmperor/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DemonicEmperor/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DemonicEmperor/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1143-longest-common-subsequence](https://github.com/DemonicEmperor/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DemonicEmperor/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DemonicEmperor/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/DemonicEmperor/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/DemonicEmperor/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DemonicEmperor/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -670,4 +674,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DemonicEmperor/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
