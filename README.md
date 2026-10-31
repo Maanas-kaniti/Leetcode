@@ -409,12 +409,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DemonicEmperor/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DemonicEmperor/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2793-count-the-number-of-complete-components](https://github.com/DemonicEmperor/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DemonicEmperor/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DemonicEmperor/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2793-count-the-number-of-complete-components](https://github.com/DemonicEmperor/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
@@ -581,11 +583,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DemonicEmperor/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DemonicEmperor/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DemonicEmperor/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Memoization
 |  |
