@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DemonicEmperor/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DemonicEmperor/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DemonicEmperor/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/DemonicEmperor/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DemonicEmperor/Leetcode/tree/master/0066-plus-one) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DemonicEmperor/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/DemonicEmperor/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/DemonicEmperor/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DemonicEmperor/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DemonicEmperor/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DemonicEmperor/Leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/DemonicEmperor/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DemonicEmperor/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DemonicEmperor/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
