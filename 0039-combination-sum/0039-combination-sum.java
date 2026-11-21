@@ -1,19 +1,19 @@
 class Solution {
-    static List<List<Integer>> recurse(int[] arr, int target,int l ,List<Integer> list){
-        List<List<Integer>> res = new ArrayList<>();
-        if(target==0){
-            res.add(new ArrayList<>(list));
+    static List<List<Integer>> back(int[] arr , int t , int i , List<Integer> curr , List<List<Integer>> res){
+        if(t==0){
+            res.add(new ArrayList<>(curr));
             return res;
         }
-        if(target<0) return res;
-        for(int i = l;i<arr.length;i++){
-            list.add(arr[i]);
-            res.addAll(recurse(arr,target-arr[i],i,list));
-            list.remove(list.size()-1);
+        if(i==arr.length) return res;
+        if(t-arr[i]>=0){
+            curr.add(arr[i]);
+            back(arr,t-arr[i],i,curr,res);
+            curr.remove(curr.size()-1);
         }
+        back(arr,t,i+1,curr,res);
         return res;
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        return recurse(candidates , target ,0, new ArrayList<>());
+        return back(candidates, target , 0, new ArrayList<>(),new ArrayList<>());
     }
 }
